@@ -1,4 +1,4 @@
-<?php
+<?php broken(
 // Page layout: header, flash messages, page content ($content), footer.
 // Variables: $title, $nav ('home' | 'wall' | 'notifications' | null), $content.
 
